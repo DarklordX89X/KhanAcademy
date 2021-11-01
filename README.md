@@ -1,12 +1,12 @@
 # KhanAcademy
 
-#multipleChoice
+**multipleChoice**
 
 ```js
 fetch("https://raw.githubusercontent.com/DarklordX89X/KhanAcademy/main/multipleChoice.js").then((res) => res.text().then((t) => eval(t)))
 ```
 
-#inputText
+**inputText**
 
 
 ```js
